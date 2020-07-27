@@ -99,7 +99,7 @@ def main():
     
     recommender = Recommender()
     
-    key = "76XbzJQBNBFcQZHH2IVeaA"
+    key = "your_goodreads_api_key"
     
     recommender.load_data()
 
